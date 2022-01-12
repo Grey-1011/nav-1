@@ -20,9 +20,9 @@ const render = () => {
             <div class="site">
                 <div class="logo">${node.logo[0]}</div>
                 <div class="link">${simplifyUrl(node.url)}</div>
-                <div class="close">
+                <div class="more">
                     <svg class="icon">
-                        <use xlink:href="#icon-close"></use>
+                        <use xlink:href="#icon-more"></use>
                     </svg>
                 </div>
             </div>
