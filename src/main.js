@@ -30,7 +30,7 @@ const render = () => {
         $li.on('click',(e)=>{
             window.open(node.url)
         })
-        $li.on('click','.close',(e)=>{
+        $li.on('click','.more',(e)=>{
             e.stopPropagation()//阻止冒泡
             console.log(hashMap);
             hashMap.splice(index,1)// 删除数组中 index对应的元素
