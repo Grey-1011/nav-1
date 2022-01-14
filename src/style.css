@@ -65,8 +65,7 @@ body{
     border-radius: 20px 0 0 20px;
     height: 44px;
     width: 100%;
-    padding: 0 10px;
-    transition: .3s linear;
+    padding: 0 20px;
 }
 .searchForm > input:focus{
     outline: none;

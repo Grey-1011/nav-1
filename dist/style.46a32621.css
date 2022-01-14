@@ -25,7 +25,7 @@ body{
     body{
         min-width: 100%;
         min-height: 100%;
-        background-image: url(background.d6606638.jpg);
+        background-image: url(background.da5f1b16.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         background-attachment: fixed;
@@ -65,8 +65,7 @@ body{
     border-radius: 20px 0 0 20px;
     height: 44px;
     width: 100%;
-    padding: 0 10px;
-    transition: .3s linear;
+    padding: 0 20px;
 }
 .searchForm > input:focus{
     outline: none;
